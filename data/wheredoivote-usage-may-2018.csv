@@ -1,0 +1,153 @@
+council id,council name,all searches,found station
+E06000001,Hartlepool Borough Council,511,498
+E06000006,Halton Borough Council,1101,720
+E06000008,Blackburn with Darwen Borough Council,962,0
+E06000010,Kingston-upon-Hull City Council,2216,2176
+E06000012,North East Lincolnshire Council,1366,1354
+E06000015,Derby City Council,2114,2074
+E06000026,Plymouth City Council,3391,3031
+E06000030,Swindon Borough Council,1740,1654
+E06000031,Peterborough City Council,1665,1325
+E06000033,Southend-on-Sea Borough Council,2374,2354
+E06000034,Thurrock Council,1695,1155
+E06000038,Reading Borough Council,3133,3061
+E06000039,Slough Borough Council,1203,0
+E06000041,Wokingham Borough Council,2733,1791
+E06000042,Milton Keynes Council,2491,2445
+E06000044,Portsmouth City Council,1808,1791
+E06000045,Southampton City Council,3227,3227
+E07000008,Cambridge City Council,2230,2176
+E07000011,Huntingdonshire District Council,2353,2336
+E07000012,South Cambridgeshire District Council,2533,2506
+E07000028,Carlisle City Council,736,537
+E07000031,South Lakeland District Council,827,817
+E07000032,Amber Valley Borough Council,1396,0
+E07000041,Exeter City Council,1367,1304
+E07000062,Hastings Borough Council,970,944
+E07000066,Basildon Borough Council,1739,1344
+E07000068,Brentwood Borough Council,577,0
+E07000069,Castle Point Borough Council,614,614
+E07000071,Colchester Borough Council,1522,1504
+E07000072,Epping Forest District Council,1275,715
+E07000073,Harlow District Council,439,0
+E07000075,Rochford District Council,888,881
+E07000078,Cheltenham Borough Council,1134,1114
+E07000084,Basingstoke and Deane Borough Council,2352,1401
+E07000086,Eastleigh Borough Council,1006,990
+E07000087,Fareham Borough Council,891,881
+E07000088,Gosport Borough Council,685,675
+E07000089,Hart District Council,1101,1089
+E07000090,Havant Borough Council,917,902
+E07000092,Rushmoor Borough Council,683,677
+E07000094,Winchester City Council,1153,0
+E07000095,Broxbourne Borough Council,713,709
+E07000099,North Hertfordshire District Council,1333,984
+E07000102,Three Rivers District Council,1049,1017
+E07000103,Watford Borough Council,712,688
+E07000110,Maidstone Borough Council,1767,1279
+E07000116,Tunbridge Wells Borough Council,871,736
+E07000117,Burnley Borough Council,519,512
+E07000118,Chorley Borough Council,1074,894
+E07000120,Hyndburn Borough Council,786,430
+E07000122,Pendle Borough Council,546,440
+E07000123,Preston City Council,1093,827
+E07000125,Rossendale Borough Council,692,488
+E07000127,West Lancashire Borough Council,1257,643
+E07000138,Lincoln City Council,789,0
+E07000145,Great Yarmouth Borough Council,630,428
+E07000148,Norwich City Council,1672,1627
+E07000151,Daventry District Council,701,568
+E07000163,Craven District Council,771,270
+E07000165,Harrogate Borough Council,1377,1368
+E07000177,Cherwell District Council,1421,1391
+E07000178,Oxford City Council,4676,4567
+E07000181,West Oxfordshire District Council,1114,0
+E07000192,Cannock Chase District Council,706,0
+E07000195,Newcastle Under Lyme Borough Council,1033,989
+E07000199,Tamworth Borough Council,456,454
+E07000202,Ipswich Borough Council,898,0
+E07000207,Elmbridge Borough Council,1582,0
+E07000210,Mole Valley District Council,641,448
+E07000211,Reigate and Banstead Borough Council,1803,0
+E07000212,Runnymede Borough Council,900,0
+E07000215,Tandridge District Council,1936,0
+E07000217,Woking Borough Council,903,0
+E07000219,Nuneaton and Bedworth Borough Council,743,0
+E07000220,Rugby Borough Council,1198,1118
+E07000223,Adur District Council,660,651
+E07000226,Crawley Borough Council,1006,639
+E07000229,Worthing Borough Council,956,947
+E07000236,Redditch Borough Council,724,0
+E07000237,Worcester City Council,1196,0
+E07000239,Wyre Forest District Council,687,624
+E07000240,St Albans City & District Council,1425,1425
+E07000241,Welwyn Hatfield Borough Council,1053,0
+E07000243,Stevenage Borough Council,585,0
+E08000001,Bolton Metropolitan Borough Council,1765,0
+E08000002,Bury Metropolitan Borough Council,1552,1395
+E08000003,Manchester City Council,6794,6653
+E08000004,Oldham Metropolitan Borough Council,1292,1276
+E08000005,Rochdale Metropolitan Borough Council,1332,1315
+E08000006,Salford City Council,2562,2562
+E08000007,Stockport Metropolitan Borough Council,2398,2366
+E08000008,Tameside Metropolitan Borough Council,1577,1549
+E08000009,Trafford Metropolitan Borough Council,3403,3345
+E08000010,Wigan Metropolitan Borough Council,1953,0
+E08000011,Knowsley Metropolitan Borough Council,912,855
+E08000012,Liverpool City Council,4322,4264
+E08000013,St Helens Metropolitan Borough Council,1219,1146
+E08000014,Sefton Metropolitan Borough Council,2216,2191
+E08000015,Wirral Metropolitan Borough of,2781,2693
+E08000016,Barnsley Metropolitan Borough Council,1206,1196
+E08000017,Doncaster Metropolitan Borough Council,1102,1101
+E08000018,Rotherham Metropolitan Borough Council,1119,1107
+E08000019,Sheffield City Council,4838,4741
+E08000021,Newcastle City Council,4179,4016
+E08000022,North Tyneside Council,1732,1697
+E08000023,South Tyneside Metropolitan Borough Council,979,972
+E08000024,Sunderland City Council,2005,0
+E08000025,Birmingham City Council,19933,19585
+E08000026,Coventry City Council,3522,3482
+E08000027,Dudley Metropolitan Borough Council,2401,2381
+E08000028,Sandwell Metropolitan Borough Council,2102,2085
+E08000029,Solihull Metropolitan Borough Council,1877,1851
+E08000030,Walsall Metropolitan Borough Council,2240,2214
+E08000031,Wolverhampton City Council,1661,1661
+E08000032,Bradford Council,4563,4530
+E08000033,Calderdale Metropolitan Borough Council,1849,1849
+E08000034,Kirklees Metropolitan Council,4594,4557
+E08000035,Leeds City Council,8993,8867
+E08000036,Wakefield Metropolitan District Council,2324,0
+E08000037,Gateshead Metropolitan Borough Council,1350,0
+E09000002,London Borough of Barking and Dagenham,2327,2288
+E09000003,London Borough of Barnet,7523,7457
+E09000004,London Borough of Bexley,4620,4556
+E09000005,London Borough of Brent,4556,4343
+E09000006,London Borough of Bromley,5876,5830
+E09000007,London Borough of Camden,6229,6226
+E09000008,London Borough of Croydon,6723,6664
+E09000009,London Borough of Ealing,5263,5167
+E09000010,London Borough of Enfield,4611,4578
+E09000011,Royal Borough of Greenwich,5004,4965
+E09000012,London Borough of Hackney,4985,4838
+E09000013,London Borough of Hammersmith and Fulham,3525,3518
+E09000014,London Borough of Haringey,6479,6437
+E09000015,London Borough of Harrow,3333,3300
+E09000016,London Borough of Havering,2814,2760
+E09000017,London Borough of Hillingdon,3714,3677
+E09000018,London Borough of Hounslow,5603,5565
+E09000019,London Borough of Islington,8424,8312
+E09000020,Royal Borough of Kensington and Chelsea,2487,2444
+E09000021,Royal Borough of Kingston Upon Thames,4424,4401
+E09000022,London Borough of Lambeth,10594,10593
+E09000023,London Borough of Lewisham,8031,7983
+E09000024,London Borough of Merton,3594,3431
+E09000025,London Borough of Newham,4261,4225
+E09000026,London Borough of Redbridge,3496,0
+E09000027,London Borough of Richmond Upon Thames,3073,3050
+E09000028,London Borough of Southwark,8328,8100
+E09000029,London Borough of Sutton,3244,3201
+E09000030,London Borough of Tower Hamlets,5097,4089
+E09000031,London Borough of Waltham Forest,7159,7057
+E09000032,London Borough of Wandsworth,7351,7303
+E09000033,City of Westminster,5588,5260
